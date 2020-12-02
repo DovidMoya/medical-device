@@ -1,0 +1,34 @@
+body {
+  background-color: #47663d;
+  color: #86f361;
+}
+
+.navigation .nav-list {
+  list-style: none;
+}
+.navigation .nav-list .nav-list-item {
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  background-color: #d12121;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px 40px;
+  color: red;
+}
+.navigation .nav-list .nav-list-item:hover {
+  background-color: #8f1717;
+  background-color: #e55a5a;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: #d12121;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 20px 40px;
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
